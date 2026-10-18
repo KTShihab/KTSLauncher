@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Grid & Dock Cell Accessibility Actions -->
+    <item type="id" name="action_cell_move" />
+    <item type="id" name="action_cell_remove" />
+    <item type="id" name="action_cell_share" />
+    <item type="id" name="action_cell_update" />
+    <item type="id" name="action_cell_info" />
+    <item type="id" name="action_cell_cancel" />
+    <item type="id" name="action_cell_place_here" />
+    <item type="id" name="action_cell_add" />
+    <item type="id" name="action_cell_widgets" />
+    <item type="id" name="action_cell_shortcuts" />
+
+    <!-- App Drawer Accessibility Actions -->
+    <item type="id" name="action_drawer_add" />
+    <item type="id" name="action_drawer_share" />
+    <item type="id" name="action_drawer_update" />
+    <item type="id" name="action_drawer_info" />
+    <item type="id" name="action_drawer_widgets" />
+    <item type="id" name="action_drawer_shortcuts" />
+
+    <!-- Home Screen Accessibility Gesture Actions -->
+    <item type="id" name="action_gesture_search" />
+    <item type="id" name="action_gesture_app_drawer" />
+    <item type="id" name="action_gesture_next_page" />
+    <item type="id" name="action_gesture_prev_page" />
+    <item type="id" name="action_gesture_settings" />
+    <item type="id" name="action_gesture_notifications" />
+    <item type="id" name="action_gesture_quick_settings" />
+    <item type="id" name="action_gesture_feed" />
+</resources>
